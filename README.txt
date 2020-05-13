@@ -1,0 +1,1 @@
+Game duration calcule by the inicial and final hour.
